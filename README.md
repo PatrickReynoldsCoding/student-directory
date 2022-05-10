@@ -3,7 +3,7 @@
 
 
     ruby
-      puts "CHECK OUT THIS SWEET READ ME!"
+      puts "This is my awesome Student directory!"
 
 </p>
 </details>
